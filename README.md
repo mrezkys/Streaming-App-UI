@@ -19,8 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 - [Code By Muhammad Rezky Sulihin (mrezkys) ](https://facebook.com/mrezkys12)
 - [Design By Muhammad Faqih](https://dribbble.com/shots/15626156-Streaming-App)
 
-![Alt text](/ss/Screenshot_2021_05_20_20_39_14_118_com_example_streaming_app_ui.jpg?raw=true "Home Page")
-![Alt text](/ss/Screenshot_2021_05_20_20_39_10_988_com_example_streaming_app_ui.jpg?raw=true "Streaming Page")
-![Alt text](/ss/Screenshot_2021_05_20_20_39_16_738_com_example_streaming_app_ui.jpg?raw=true "Discover Page")
+<img src="https://github.com/mrezkys/Streaming-App-UI/blob/main/ss/Screenshot_2021_05_20_20_39_14_118_com_example_streaming_app_ui.jpg" width="150" height="auto">
 
 
